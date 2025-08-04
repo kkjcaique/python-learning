@@ -12,7 +12,7 @@ try:
     else:
         print(f'{n_int} é um número ímpar')
 except:
-    print('o numero digitado não é inteiro')
+    print('você não digitou um número inteiro')
 """
 
 # question 2
